@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&family=Tilt+Warp&display=swap');
+
+.wrapper {
+    display: flex;
+    padding: 30px;
+    background: white;
+    height: 540px;
+    width: 1300px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1000px;
+    margin: 0px;
+    background: grey;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.container {
+    padding: 30px;
+     border: 2px;
+} 
+
+.container .fst {
+    padding-top: 5px;
+    position: relative;
+    padding-top: 50px;
+}
+
+h2 {
+    padding-top: 30px;
+}
+
+h1{
+    font-family: 'Tilt Warp', sans-serif;
+}
+
+span {
+    font-family: 'Tilt Prism', sans-serif;
+}
